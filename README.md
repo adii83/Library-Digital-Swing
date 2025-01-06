@@ -20,7 +20,7 @@ Pustaka Digital adalah aplikasi manajemen perpustakaan yang memungkinkan Admin u
 ## Cara Instalasi
 1. Clone repositori ini: 
    ```bash
-   git clone https://github.com/username/pustaka-digital.git
+   git clone https://github.com/username/Library-Digital-Swing.git
    ```
 2. Masuk ke direktori proyek:
    ```bash
